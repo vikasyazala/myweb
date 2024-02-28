@@ -1,0 +1,31 @@
+
+
+
+
+Fundamentals of 
+
+1.Operating systems
+2.Databases
+3.Virtualization
+4.Networking
+5.Coding
+
+0:00 Introduction
+0:55 (1) AWS Skill Builder
+1:49 (2) Workshops.aws
+2:43 (3) Back to Basics
+3:09 (4) AWS Free Tier
+4:25 (5) Other Resources
+
+🔗 Links / Resources Mentioned:
+AWS Skill Builder: https://skillbuilder.aws/
+Workshops.aws: https://workshops.aws/
+Back to Basics: https://aws.amazon.com/architecture/b...
+AWS Free Tier: https://aws.amazon.com/free/
+
+📚 Other Resources: 
+• AWS Re-invent: https://reinvent.awsevents.com/
+• AWS Events: https://aws.amazon.com/events/
+• AWS Whitepapers: https://aws.amazon.com/whitepapers/
+• AWS Ramp-up Guides: https://aws.amazon.com/training/ramp-...
+• AWS Power Hour: https://pages.awscloud.com/traincert-...
